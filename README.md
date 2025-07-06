@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Labeeb | 👨‍💻 Full-Stack Developer | 💡 Lifelong Learner | 🚀 Passionate Coder
+# 👋 Hi there, I'm Labeeb | 👨‍💻 Full-Stack Developer
 
 ## 💫 About Me
 
